@@ -1,0 +1,293 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "test.f90",
+			"settings":
+			{
+				"buffer_size": 363,
+				"line_ending": "Unix",
+				"name": "PROGRAM test"
+			}
+		},
+		{
+			"file": "vars.f90",
+			"settings":
+			{
+				"buffer_size": 99,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test_call.f90",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 508,
+				"line_ending": "Unix",
+				"name": "# Makefile for the fortran test (ftest) collection"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"proje",
+				"Project: Close"
+			],
+			[
+				"for",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"fort",
+				"Set Syntax: Fortran - Modern"
+			],
+			[
+				"syntax: Fo",
+				"Set Syntax: Fortran - Modern"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "test.f90",
+					"settings":
+					{
+						"buffer_size": 363,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								345,
+								345
+							]
+						],
+						"settings":
+						{
+							"auto_name": "PROGRAM test",
+							"syntax": "Packages/Fortran/Syntaxes/Fortran - Modern.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "vars.f90",
+					"settings":
+					{
+						"buffer_size": 99,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Fortran/Syntaxes/Fortran - Modern.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "test_call.f90",
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Fortran/Syntaxes/Fortran - Modern.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "Makefile",
+					"settings":
+					{
+						"buffer_size": 508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								508,
+								508
+							]
+						],
+						"settings":
+						{
+							"auto_name": "# Makefile for the fortran test (ftest) collection",
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
