@@ -1,0 +1,96 @@
+GFORTRAN module version '10' created from LinkedListTest.f90
+MD5:c34f9c1777da25b4c4801dc19acfda76 -- If you edit this, you'll get what you deserve.
+
+(() () () () () () () () () () () () () () () () () () () () () () () ()
+() () ())
+
+()
+
+(('telem' 'linkedlist' 2) ('telemlist' 'linkedlist' 3))
+
+()
+
+()
+
+()
+
+(2 'Telem' 'linkedlist' '' 1 ((DERIVED UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0 POINTER_COMP) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () ()
+0 ((4 'val' (INTEGER 4 0 0 0 INTEGER ()) () (UNKNOWN-FL UNKNOWN-INTENT
+UNKNOWN-PROC UNKNOWN UNKNOWN 0 0) UNKNOWN-ACCESS ()) (5 'nextelem' (
+DERIVED 2 0 0 0 DERIVED ()) () (UNKNOWN-FL UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0 POINTER) UNKNOWN-ACCESS ())) PUBLIC (() () () ()) ()
+0 0 86186683)
+3 'Telemlist' 'linkedlist' '' 1 ((DERIVED UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0 POINTER_COMP) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () ()
+0 ((6 'firstelem' (DERIVED 2 0 0 0 DERIVED ()) () (UNKNOWN-FL
+UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 POINTER) UNKNOWN-ACCESS
+())) PUBLIC (() () () ()) () 0 0 84509945)
+7 'addelem' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 8 0 (9 10) ()
+0 () () () 0 0)
+11 'in_linkedlist' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 FUNCTION) (LOGICAL 4 0 0 0 LOGICAL ()) 12 0
+(13 14) () 15 () () () 0 0)
+16 'linkedlist' 'linkedlist' '' 1 ((MODULE UNKNOWN-INTENT UNKNOWN-PROC
+UNKNOWN UNKNOWN 0 0) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () () 0 () () () 0
+0)
+17 'linkedlist_combine' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 FUNCTION) (DERIVED 3 0 0 0 DERIVED ()) 18 0
+(19 20) () 21 () () () 0 0)
+22 'list_empty' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 FUNCTION IMPLICIT_PURE) (LOGICAL 4 0 0 0 LOGICAL ()) 23
+0 (24) () 25 () () () 0 0)
+26 'new_telemlist' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT
+MODULE-PROC DECL UNKNOWN 0 0 FUNCTION IMPLICIT_PURE) (DERIVED 3 0 0 0
+DERIVED ()) 0 0 () () 27 () () () 0 0)
+28 'print_list' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 29 0 (30) () 0
+() () () 0 0)
+31 'rmelem' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT MODULE-PROC
+DECL UNKNOWN 0 0 SUBROUTINE) (UNKNOWN 0 0 0 0 UNKNOWN ()) 32 0 (33 34) ()
+0 () () () 0 0)
+35 'telem' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT UNKNOWN-PROC
+DECL UNKNOWN 0 0 FUNCTION GENERIC) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () ()
+0 () () () 0 0)
+36 'telemlist' 'linkedlist' '' 1 ((PROCEDURE UNKNOWN-INTENT UNKNOWN-PROC
+DECL UNKNOWN 0 0 FUNCTION GENERIC) (UNKNOWN 0 0 0 0 UNKNOWN ()) 0 0 () ()
+0 () () () 0 0)
+9 'list' '' '' 8 ((VARIABLE INOUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+10 'newval' '' '' 8 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+13 'list' '' '' 12 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+14 'valtest' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+15 'found' '' '' 12 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 RESULT) (LOGICAL 4 0 0 0 LOGICAL ()) 0 0 () () 0 () () () 0
+0)
+19 'list1' '' '' 18 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+20 'list2' '' '' 18 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+21 'list1_2' '' '' 18 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 RESULT) (DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0
+0)
+24 'list' '' '' 23 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+25 'torf' '' '' 23 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 RESULT) (LOGICAL 4 0 0 0 LOGICAL ()) 0 0 () () 0 () () () 0
+0)
+27 'new_list' '' '' 37 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 RESULT) (DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0
+0)
+30 'list' '' '' 29 ((VARIABLE IN UNKNOWN-PROC UNKNOWN UNKNOWN 0 0 DUMMY)
+(DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+33 'list' '' '' 32 ((VARIABLE INOUT UNKNOWN-PROC UNKNOWN UNKNOWN 0 0
+DUMMY) (DERIVED 3 0 0 0 DERIVED ()) 0 0 () () 0 () () () 0 0)
+34 'dropval' '' '' 32 ((VARIABLE UNKNOWN-INTENT UNKNOWN-PROC UNKNOWN
+UNKNOWN 0 0 DUMMY) (INTEGER 4 0 0 0 INTEGER ()) 0 0 () () 0 () () () 0 0)
+)
+
+('Telem' 0 2 'Telemlist' 0 3 'addelem' 0 7 'in_linkedlist' 0 11
+'linkedlist' 0 16 'linkedlist_combine' 0 17 'list_empty' 0 22
+'new_telemlist' 0 26 'print_list' 0 28 'rmelem' 0 31 'telem' 0 35
+'telemlist' 0 36)
